@@ -1,0 +1,17 @@
+{
+  "name": "cellular",
+  "version": "1.0.0",
+  "main": "cell.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "math": "^0.0.3",
+    "mathjs": "^12.1.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
